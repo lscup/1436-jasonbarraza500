@@ -92,6 +92,7 @@ int main() {
 
     // Display results
     std::cout << "\nFinal Results\n";
+    std::cout << "============================" << std::endl;
     std::cout << "Total Points Earned: " << total_points_earned << '\n';
     std::cout << "Total Points Possible: " << total_course_points << '\n';
     std::cout << "Total Percentage: " << total_percentage_earned << '%' << '\n';
